@@ -1,3 +1,4 @@
+
 # 📘 JavaScript Basics – Operators & Grading System
 
 This repository contains two simple JavaScript programs to learn basic operators and conditions in an easy way.
@@ -19,3 +20,10 @@ This program calculates final marks by adding bonus marks and then finds the gra
 ## 🚀 Overall Learning Outcome
 
 This project helps you understand how JavaScript operators, conditions, and decision-making work together in simple real-life programs.
+
+---
+
+## 🤝 Connect with Me
+
+- LinkedIn: SK Suryaa
+```
