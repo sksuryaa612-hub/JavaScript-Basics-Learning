@@ -25,5 +25,4 @@ This project helps you understand how JavaScript operators, conditions, and deci
 
 ## 🤝 Connect with Me
 
-- LinkedIn: SK Suryaa
-```
+- LinkedIn:[SK Suryaa](https://www.linkedin.com/in/sk-suryaa-97ba70340/)
